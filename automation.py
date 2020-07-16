@@ -15,3 +15,4 @@ driver.get("http://www.walla.co.il")
 
 urlTitle = driver.title
 print("title: "+driver.title)
+#
